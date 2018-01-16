@@ -1,16 +1,9 @@
 # React Module Setup
+Simple film library created in React
 
-1. Verify that node v8.6.0 is installed (want to make sure we're all on the same version)
-  - Type `node --version`
-  - If version is not 8.6.0, let's upgrade
-    - macOS users probably upgrade through homebrew
-      - `brew upgrade node` or `brew install node`
-    - Linux users probably installed via nvm
-      - `nvm install v8.6.0`
-2. Once we're setup, let's install `create-react-app`
-3. Visit https://my.ga.co
-4. Login with your personal email and the password `change_this_password`
+# Getting started
 
+clone the repo and run NPM install! 
 
 # `create-react-app` Documentation
 
