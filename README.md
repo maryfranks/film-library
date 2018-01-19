@@ -3,7 +3,16 @@ Simple film library created in React
 
 # Getting started
 
-clone the repo and run NPM install! 
+clone the repo and run NPM install!
+
+# TMDB API key
+To sign up go to: https://www.themoviedb.org and create account.  
+
+Instructions on requesting API key: https://developers.themoviedb.org/3/getting-started/introduction
+
+Configure dotenv:
+  create new file at root of project called ```.env.local```
+  add line ```REACT_APP_TMDB_API_KEY=<Your TMDB API KEY>```
 
 # `create-react-app` Documentation
 
