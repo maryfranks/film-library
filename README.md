@@ -1,4 +1,4 @@
-# React Module Setup
+# Film Library
 Simple film library created in React
 
 # Getting started
